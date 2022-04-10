@@ -46,4 +46,9 @@ def longestPalindrome(string):
 
 
 
+'''
+
+	Main
+
+'''
 print(longestPalindrome(input()))
